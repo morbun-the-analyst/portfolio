@@ -1,6 +1,6 @@
 # Data Analyst
 
-###About Me
+### About Me
 
 Hi, I’m Brenda! My passion for data analytics stems from my background in Electrical and Control Engineering, where I developed a strong foundation in problem-solving, data interpretation, and analytical thinking. My ability to break down complex systems and analyze technical data has been instrumental in my transition to data analytics.
 
@@ -12,8 +12,8 @@ Beyond work, I enjoy building data-driven projects, staying updated on analytics
 
 I’m actively looking for opportunities in data analytics where I can apply my skills to solve real-world problems. If you’re looking for a dedicated and analytical problem-solver, let’s connect!
 
-##projects
+## projects
 
-###Stakeholder Projects
-###personal projects 
+### Stakeholder Projects
+### personal projects 
 
