@@ -16,4 +16,5 @@ I’m actively looking for opportunities in data analytics where I can apply my 
 
 ### Stakeholder Projects
 ### personal projects 
+### certifications
 
