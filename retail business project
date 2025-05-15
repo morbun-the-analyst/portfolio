@@ -1,0 +1,71 @@
+✅ Project Title
+Customer Segmentation & Revenue Analysis Using Excel
+
+📌 Project Background
+As a junior data analyst aspiring to break into tech, I worked on a simulated sales data project to mimic a real retail business scenario. The objective was to analyze customer behavior across different segments and age groups using Excel—focusing on revenue drivers, customer lifetime metrics, and purchase behavior.
+
+🧠 Executive Summary
+This project emulated a stakeholder request from a Sales & Marketing Manager who wanted to understand which customer segments and age groups were generating the most revenue and which showed the best performance in key metrics such as recency, average order value, and monthly spend.
+
+I used Excel PivotTables and PivotCharts (clustered column and stacked column) to explore patterns in the data. The analysis identified New Customers aged 50+ as the highest contributors to recent revenue. However, VIP customers had the lowest recency, suggesting stronger brand loyalty. Recommendations were made on targeting retention campaigns based on these insights.
+
+🗂 Entity Relationship Diagram (ERD)
+This project used a simplified star schema with the following tables:
+
+fact_sales
+
+dim_customers
+
+Joins were made using customer_key as the primary/foreign key.
+
+🔍 Insights Deep Dive
+Using Excel, I analyzed the following:
+
+1. Revenue Contribution
+New Customers: 37% of total sales
+
+VIP Customers: 36% of total sales
+
+Regular Customers: 25% of total sales
+
+2. Age Group Contribution
+Customers aged 50+ contributed the highest revenue (66% of total sales)
+
+3. Recency
+VIPs had the lowest recency, indicating recent engagement
+
+New customers had higher recency, suggesting they may churn if not retained
+
+4. Average Order Value (AOV) & Monthly Spend
+New Customers had the highest AOV and monthly spend, showing potential for upselling or loyalty programs.
+
+📈 Visuals Used
+Stacked Column Chart: To show revenue by age group and customer segment
+
+Clustered Column Chart: To compare metrics like AOV, recency, and monthly spend across segments
+
+📝 Recommendations
+Focus marketing campaigns on New customers aged 50+, as they generate the most sales but may churn if not engaged.
+
+Maintain engagement with VIP customers to retain their loyalty and potentially upsell.
+
+Consider age-personalized offers, especially for the 50+ age group.
+
+❓Clarifying Questions
+Should we analyze product-level purchasing behavior to tailor future promotions?
+
+Is there seasonality in customer purchasing patterns we should account for?
+
+⚠️ Caveats
+The analysis was done using Excel on web (not full Power BI dashboards).
+
+Data accuracy depends on the correctness of the initial import and assumptions.
+
+External factors such as marketing campaigns or customer service quality were not considered.
+
+📌 Project Description Summary
+Duration: 3–4 days
+Tools: Excel (PivotTables, PivotCharts)
+Skills Demonstrated: EDA, segmentation, KPI analysis, Excel visualization, business storytelling
+Key Metrics Used: Total Sales, Recency, AOV, Monthly Spend
+
