@@ -1,4 +1,4 @@
-# Data Analyst
+# Data|FInance|BI Analyst
 
 ### About Me
 Hi, I’m Brenda — a data analyst with a background in Electrical and Control Engineering.
