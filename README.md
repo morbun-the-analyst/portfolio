@@ -31,9 +31,9 @@ To deepen my skills, I earned the **IBM Data Analyst Professional Certificate** 
 ##  Featured Projects
 
 ###  [Customer Segmentation & Revenue Analysis](https://github.com/morbun-the-analyst/Brenda-s-project)
-**SQL + Tableau**  
+**SQL + Tableau + Excel**  
 A complete customer analysis project that segments users into VIP, regular, and new. Includes key KPIs such as recency, monthly spend, and average order value.  
-**Skills used**: SQL queries, cohort segmentation, Tableau dashboard
+**Skills used**: SQL queries, cohort segmentation, Tableau dashboard,pivot tables,pivot charts
 
 ---
 
