@@ -19,8 +19,7 @@ During my free time, I’m driven by curiosity and continuous learning. I love b
  **I'm actively seeking remote  roles in data analytics. If you're looking for a passionate, analytical, and results-driven team member — let's connect!**
 
 
-To deepen my skills, I earned the **IBM Data Analyst Professional Certificate** and now specialize in:
-
+Areas of specialization:
 - **Data Cleaning & Wrangling**: Python (Pandas, NumPy), SQL
 - **Data Visualization**: Tableau, Matplotlib, Seaborn
 - **Tools & Platforms**: Excel, Git, Jupyter Notebooks, VS Code
